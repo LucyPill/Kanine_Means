@@ -1,6 +1,6 @@
 # Kanine_Means
 ## Topic: Proof of Concept (POC) for a Vaccine
-The reason we selected this topic is that we have an ongoing study to determine the immunogenecity that a potential vaccine candidate has in sample population of 32 subjects. The data generated from this in vivo preclinical POC testing will be useful in guiding the design of both preclinical studies as well as the early-phase clinical trials, while contributing to defining reasonable risk for the investigational product in the intended patient population.
+The reason for selecting this topic is that we have an ongoing study to determine the immunogenecity that a potential vaccine candidate has in a sample population of 32 subjects. The data generated from this in vivo preclinical POC testing will be useful in guiding the design of both preclinical studies as well as the early-phase clinical trials, while contributing to defining reasonable risk for the investigational product in the intended patient population.
 
 ## Purpose:
 
