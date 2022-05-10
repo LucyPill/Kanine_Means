@@ -13,6 +13,10 @@ Subjects will be giving three vaccinations at three different time points. Blood
 ## Question we hope to answer with the data:
 Does the vaccine have a positive impact in preventing, reducing, or slowing down cavity?
 
+## Machine Learning Model: 
+
+## Database:
+
 ## Segment 1 Summary:
 The following was accomplished:
 * Topic was selected
