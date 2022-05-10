@@ -10,7 +10,17 @@ Developing a vaccine is a complex long process. Before a vaccine is available to
 ## Description of the source of data:
 Subjects will be giving three vaccinations at three different time points. Blood samples will be collected after each time point to measure the antibody response and measurements of each tooth will be performed. Our subjects have 32 teeth/each, each tooth will have four measurements at four different time points.
 
+## Question we hope to answer with the data:
+Does the vaccine have a positive impact in preventing, reducing, or slowing down cavity?
 
 ## Segment 1 Summary:
-
+The following was accomplished:
+* Topic was selected
+* The reason the topic was selected
+* Description of the source of data
+* Question we hope to answer with the data
+* A GitHub Repo was created and members were invited to collaborate
+* Members met in person last weekend and disccused more details during class this evening
+* Provisional machine learning model was suggested
+* Provisional database was suggested 
 
