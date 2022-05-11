@@ -12,7 +12,7 @@ Developing a vaccine is a complex long process. Before a vaccine is available to
 ## Description of the source of data:
 Subjects will be given three vaccinations at three different time points. Blood samples will be collected after each time point to measure the antibody response and measurements of each tooth will be performed to measure pocket depth. The pocket is the space between the root surface and the gingiva. Our subjects have 32 teeth/each, each tooth will have four measurements at four different time points.
 
-![pocket_depth.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pocket_depth.png)
+![pic2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pic2.png)
 
 ### WHAT DO THE MEASUREMENTS MEAN?
 Typically smaller and tighter measurements mean healthier gums. 
