@@ -27,7 +27,7 @@ Typically smaller and tighter measurements mean healthier gums.
 7mm and above with bleeding is generally the advanced stage of periodontal disease. 
 
 ## Question we hope to answer with the data:
-Does the vaccine have a positive impact in preventing, reducing, or slowing gum disease?
+Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
 ## Machine Learning Model: 
 
