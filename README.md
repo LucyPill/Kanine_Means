@@ -10,8 +10,19 @@ Developing a vaccine is a complex long process. Before a vaccine is available to
 ## Description of the source of data:
 Subjects will be given three vaccinations at three different time points. Blood samples will be collected after each time point to measure the antibody response and measurements of each tooth will be performed to measure pocket depth. Our subjects have 32 teeth/each, each tooth will have four measurements at four different time points.
 
-![pic1.png](https://github.com/LucyPill/Kanine_Means/tree/main/Images)
+![pocket_depth.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pocket_depth.png)
 
+### WHAT DO THE MEASUREMENTS MEAN?
+Typically smaller and tighter measurements mean healthier gums. When evaluating your gum health, we also review your x-rays as well as visual signs of healthy gums. 
+
+0-3mm without bleeding means you are in great shape. 
+1-3mm with bleeding is an early sign of gingivitis. Better at-home care will probably get you back on track!
+
+3-5mm without bleeding means gum disease is possible. We’ll help you with some instructions for home and possibly schedule another visit a little sooner.
+3-5mm with bleeding could be the beginning of gum disease. This can require additional treatment and more frequent visits.
+
+5-7mm with bleeding means tissue damage and probably bone loss. More hygiene visits and special treatment will probably be necessary in addition to better at-home care.
+7mm and above with bleeding is generally the advanced stage of periodontal disease. Surgery to repair bone loss and frequent periodontal maintenance will be required.
 ## Question we hope to answer with the data:
 Does the vaccine have a positive impact in preventing, reducing, or slowing down cavity?
 
