@@ -10,7 +10,7 @@ The data generated from this in vivo preclinical POC testing will be useful in g
 Developing a vaccine is a complex long process. Before a vaccine is available to the public, it must go through several stages of testing. The first stage is the proof of concept (POC). During this stage, studies can be performed in rodents such as mice, rats, rabbits, etc. The goal of a POC is to determine if the vaccine induces a positive immune response against the virus or bacteria we are targeting, and the immune response protects the individual either from getting the decease or lessening the symptoms. 
 
 ## Description of the source of data:
-Subjects will be given three vaccinations at three different time points. Blood samples will be collected after each time point to measure the antibody response and measurements of each tooth will be performed to measure pocket depth. The pocket is the space between the root surface and the gingiva. Our subjects have 32 teeth/each, each tooth will have four measurements at four different time points.
+Subjects in this study will be given three vaccinations at three different time points. Blood samples will be collected after each time point to measure the antibody response and measurements of each tooth will be performed to measure pocket depth. The pocket is the space between the root surface and the gingiva. Our subjects have 32 teeth/each, each tooth will have four measurements at four different time points.
 
 ![pic2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pic2.png)
 
