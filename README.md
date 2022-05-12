@@ -32,7 +32,11 @@ Typically smaller and tighter measurements mean healthier gums.
 Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
 ## Machine Learning Model: 
-The machine learning model considered for this project is unsupervised.
+The machine learning model considered for this project is hierarchical clustering.  The two main factors for this selection are as follows:
+
+&nbsp;&nbsp;&nbsp;*The dataset is relatively small in size. Hierarchical clustering works well with small datasets.
+
+&nbsp;&nbsp;&nbsp;*Hierarchical clustering is an unsupervised ML model.  Since the outcome of the data is unknown, unsupervised ML is likely the best &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selection.
 
 ## Database:
 
