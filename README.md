@@ -39,6 +39,11 @@ The machine learning model considered for this project is hierarchical clusterin
 &nbsp;&nbsp;&nbsp;*Hierarchical clustering is an unsupervised ML model.  Since the outcome of the data is unknown, unsupervised ML is likely the best &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selection.
 
 ## Database:
+We are going to have one table VaccineData which will hold all the readings for all tooth positions for all the dogs in all different groups. Please see the sample data below.
+![image](https://user-images.githubusercontent.com/56806834/167991483-49d85ab4-cedb-4835-a0a0-14b305a760b6.png)
+
+We will be having couple reference tables for Animals and Groups. We will be creating these tables in the next segments.
+
 
 ## Segment 1 Summary:
 The following was accomplished:
