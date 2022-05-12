@@ -32,6 +32,7 @@ Typically smaller and tighter measurements mean healthier gums.
 Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
 ## Machine Learning Model: 
+The machine learning model considered for this project is unsupervised.
 
 ## Database:
 
