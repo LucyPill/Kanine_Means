@@ -36,7 +36,7 @@ The machine learning model considered for this project is hierarchical clusterin
 
 &nbsp;&nbsp;&nbsp;*The dataset is relatively small in size. Hierarchical clustering works well with small datasets.
 
-&nbsp;&nbsp;&nbsp;*Hierarchical clustering is an unsupervised ML model.  Since the outcome of the data is unknown, unsupervised ML is likely the best &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selection.
+&nbsp;&nbsp;&nbsp;*Hierarchical clustering is an unsupervised ML model.  Since the outcome of the data is unknown, unsupervised ML is likely the best selection.
 
 ## Database:
 We are going to have one table VaccineData which will hold all the readings for all tooth positions for all the dogs in all different groups. Please see the sample data below.
