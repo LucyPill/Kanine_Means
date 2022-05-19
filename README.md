@@ -60,8 +60,17 @@ The following was accomplished:
 
 ## Github:
 Main Branch
-Most code in the master branch is production-ready.
+
 Main branch should include:
-* All code necessary to perform exploratory analysis
-* Some code necessary to complete machine learning
-portion of project 
+* All code necessary to perform exploratory analysis: Generated all the csv files needed and cleaneing with pandas in jupyter notebook
+* Some code necessary to complete machine learning portion of project 
+
+## Machine Learning:
+Data needed for this cleaned with pandas...
+
+## Database: 
+Before data was imported into postgresSQL was cleaned with pandas and ERD showing relationships was generated.
+
+## Dashboard:
+* Storyboard on a Google Slide(s)
+* Description of the tool that will be used to create final dashboard: For this we will use Tablaeu 
