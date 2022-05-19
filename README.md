@@ -74,3 +74,12 @@ Before data was imported into postgresSQL was cleaned with pandas and ERD showin
 ## Dashboard:
 * Storyboard on a Google Slide(s)
 * Description of the tool that will be used to create final dashboard: For this we will use Tablaeu 
+
+## Segment 2 Summary:
+The following was accomplished:
+* Cleaned data with pandas
+* Started importing the csv files into postqresSQL 
+* A blueprint of the dasboard was generated using tablaeu 
+* An outline of the presentation was generated
+* Team memebers met during class and then communicated outside class via Zoom and slack to coordinate details.
+
