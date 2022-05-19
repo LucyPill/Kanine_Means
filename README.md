@@ -68,7 +68,7 @@ Main branch should include:
 ## Machine Learning:
 Data needed for this cleaned with pandas...
 
-![pandas_cleaning.png]((https://github.com/LucyPill/Kanine_Means/blob/main/Images/pandas_cleaning.png)
+![pandas_cleaning.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pandas_cleaning.png)
 
 ## Database: 
 Before data was imported into postgresSQL was cleaned with pandas and ERD showing relationships was generated.
