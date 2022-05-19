@@ -56,4 +56,12 @@ The following was accomplished:
 * Provisional machine learning model was suggested
 * Provisional database was suggested 
 
-# Segment 2:
+# Segment 2 Progress:
+
+## Github:
+Main Branch
+Most code in the master branch is production-ready.
+Main branch should include:
+* All code necessary to perform exploratory analysis
+* Some code necessary to complete machine learning
+portion of project 
