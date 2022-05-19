@@ -56,3 +56,4 @@ The following was accomplished:
 * Provisional machine learning model was suggested
 * Provisional database was suggested 
 
+# Segment 2:
