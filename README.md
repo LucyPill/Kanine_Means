@@ -85,7 +85,8 @@ Before data was imported into postgresSQL was cleaned with pandas and ERD showin
 The following was accomplished:
 * Cleaned data with pandas
 * Started importing the csv files into postqresSQL 
-* A blueprint of the dasboard was generated using tablaeu 
+* A blueprint of the dasboard was generated using tableau
 * An outline of the presentation was generated
-* Team memebers met during class and then communicated outside class via Zoom and slack to coordinate details.
+* Team members met during class and then communicated outside class via Zoom and slack to coordinate details
+* Team members collaborated equally
 
