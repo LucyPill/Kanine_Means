@@ -77,7 +77,7 @@ Before data was imported into postgresSQL was cleaned with pandas and ERD showin
 * Storyboard on a Google Slide(s)
 * Description of the tool that will be used to create final dashboard: For this we will use Tablaeu 
 
-![dashboard2.png(https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
+![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
 
 ![dashboard.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard.png)
 
