@@ -66,9 +66,42 @@ Main branch should include:
 * Some code necessary to complete machine learning portion of project 
 
 ## Machine Learning:
-Data needed for this cleaned with pandas...
+The first steps to moving data to an unsupervised algorithm are as follows:
 
-![pandas_cleaning.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pandas_cleaning.png)
+1) Data selection (csv with vaccine data)
+
+2) Data processing (cleaning with pandas and sql) 
+
+
+&nbsp;&nbsp;&nbsp;*In this section the comments column and all null values were dropped from the csv. 
+
+
+![drops](https://github.com/LucyPill/Kanine_Means/blob/main/Images/drops.png)
+
+
+&nbsp;&nbsp;&nbsp;*Here the Subject No column was changed from string to integer values
+
+
+![pandas_cleaning](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pandas_cleaning.png)
+
+
+&nbsp;&nbsp;&nbsp;*All columns were then renamed into snake case and all spaces were removed.
+
+
+![renamed_columns](https://github.com/LucyPill/Kanine_Means/blob/main/Images/renamed_columns.png)
+
+
+&nbsp;&nbsp;&nbsp;*Lastly columns were changed into integer values.
+
+
+![changed_dtypes](https://github.com/LucyPill/Kanine_Means/blob/main/Images/changing_datatypes.png)
+
+
+3) Data transformation (All data is being cleaned and written into a new csv file)
+
+
+![transformation](https://github.com/LucyPill/Kanine_Means/blob/main/Images/csv_transformation_code.png)
+
 
 ## Database: 
 Before data was imported into postgresSQL was cleaned with pandas and ERD showing relationships was generated.
