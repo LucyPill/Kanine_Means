@@ -44,10 +44,6 @@ We are going to have one table VaccineData which will hold all the readings for 
 
 We will be having couple reference tables for Animals and Groups. We will be creating these tables in the next segments.
 
-Very first draft of ERD
-![image](https://user-images.githubusercontent.com/56806834/169680938-ab9c2b87-d0b7-4f3d-9fed-7f755c307c99.png)
-
-
 
 ## Segment 1 Summary:
 The following was accomplished:
@@ -66,7 +62,7 @@ The following was accomplished:
 Main Branch
 
 Main branch should include:
-* All code necessary to perform exploratory analysis: Generated all the csv files needed and cleaneing with pandas in jupyter notebook
+* All code necessary to perform exploratory analysis: Generated all the csv files needed and cleaning with pandas in jupyter notebook
 * Some code necessary to complete machine learning portion of project 
 
 ## Machine Learning:
@@ -106,9 +102,17 @@ The first steps to moving data to an unsupervised algorithm are as follows:
 
 ![transformation](https://github.com/LucyPill/Kanine_Means/blob/main/Images/csv_transformation_code.png)
 
+&nbsp;&nbsp;&nbsp;After cleaning all of the csv files, all cleaned csvs were combined with an outer join using pandas and lambdas ([Link to Code](https://github.com/LucyPill/Kanine_Means/blob/main/Python/cleaned_csv_merge.ipynb)).  Index was dropped on this file to be used in the ml model ([File Here](https://github.com/LucyPill/Kanine_Means/blob/main/Resources/machine_learning_cleaned.csv)).
+
+&nbsp;&nbsp;&nbsp;The first model chosen for the machine learning section was the hierarchical clustering model and for the reasons given in Segment 1.  After running this model it was quite clear the clusters were not forming as hoped ([Link to Code](https://github.com/LucyPill/Kanine_Means/blob/main/Python/hierarchical_clustering_model.ipynb)).  A dendrogram was created.  Multiple attempts were made with selecting a different amount of clusters.  In addition, the hvplot was rearranged numerous times to get the desired output.  Nothing seemed to form a fine tuned picture of what the data is saying.  From here K-means could possibly work.  If K-means fails then a supervised model may be more suitable for this project.
+
+![transformation](https://github.com/LucyPill/Kanine_Means/blob/main/Images/hierarchical_clustering.png)
+
 
 ## Database: 
 Before data was imported into postgresSQL was cleaned with pandas and ERD showing relationships was generated.
+Very first draft of ERD
+![image](https://user-images.githubusercontent.com/56806834/169680938-ab9c2b87-d0b7-4f3d-9fed-7f755c307c99.png)
 
 ## Dashboard:
 * Storyboard on a Google Slide(s)
@@ -126,4 +130,5 @@ The following was accomplished:
 * An outline of the presentation was generated
 * Team members met during class and then communicated outside class via Zoom and slack to coordinate details
 * Team members collaborated equally
+* First ML model was attempted
 
