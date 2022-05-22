@@ -44,6 +44,10 @@ We are going to have one table VaccineData which will hold all the readings for 
 
 We will be having couple reference tables for Animals and Groups. We will be creating these tables in the next segments.
 
+Very first draft of ERD
+![image](https://user-images.githubusercontent.com/56806834/169680938-ab9c2b87-d0b7-4f3d-9fed-7f755c307c99.png)
+
+
 
 ## Segment 1 Summary:
 The following was accomplished:
