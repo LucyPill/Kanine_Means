@@ -1,0 +1,1 @@
+Create table AnimalGroup (AnimalName varchar(10), Group_Id numeric(10), Animal_Id numeric(10))
