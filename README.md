@@ -114,6 +114,21 @@ Before data was imported into postgresSQL was cleaned with pandas and ERD showin
 Very first draft of ERD
 ![image](https://user-images.githubusercontent.com/56806834/169680938-ab9c2b87-d0b7-4f3d-9fed-7f755c307c99.png)
 
+
+After all the cleaning up of the data, we have to make changes to the table structure. Following are the SQLs used to create new tables, Merge the data in two tables.
+##### vaccinedata:
+Create table VaccineData (SubjectNo numeric(10), Tooth_Id numeric(10), Days numeric(10), Rostral numeric(10), 
+					 Buccal numeric(10), Distal numeric(10), Palatal numeric(10), GingivialRecession numeric(10),
+					 BleedingAssessment numeric(10))
+#### vaccinedata1:
+Create table VaccineData1 (SubjectNo numeric(10), Tooth_Id numeric(10), Days numeric(10), Rostral numeric(10), 
+					 Buccal numeric(10), Distal numeric(10), Palatal numeric(10), GingivialRecession numeric(10),
+					 BleedingAssessment numeric(10))
+#### Merge SQL:
+INSERT INTO vaccinedata SELECT * FROM vaccinedata1
+#### animalgroup:
+Create table animalgroup (animalname varchar(30), subjectno numeric(10), grouptype varchar(30))
+
 ## Dashboard:
 * Storyboard on a Google Slide(s)
 * Description of the tool that will be used to create final dashboard: For this we will use Tablaeu 
