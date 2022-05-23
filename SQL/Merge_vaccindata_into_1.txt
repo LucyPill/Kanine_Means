@@ -1,0 +1,1 @@
+INSERT INTO vaccinedata SELECT * FROM vaccinedata1

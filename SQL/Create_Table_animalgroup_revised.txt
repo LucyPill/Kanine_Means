@@ -1,0 +1,1 @@
+Create table animalgroup (animalname varchar(30), subjectno numeric(10), grouptype varchar(30))

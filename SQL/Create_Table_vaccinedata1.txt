@@ -1,0 +1,3 @@
+Create table VaccineData1 (SubjectNo numeric(10), Tooth_Id numeric(10), Days numeric(10), Rostral numeric(10), 
+							  Buccal numeric(10), Distal numeric(10), Palatal numeric(10), GingivialRecession numeric(10),
+							  BleedingAssessment numeric(10)) 
