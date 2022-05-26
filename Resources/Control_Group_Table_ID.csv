@@ -1,7 +1,7 @@
-﻿Animal_Name,Animal_ID,Group_No.
-Penny,K,Control
-Baby,L,Control
-Maddie,M,Control
-Blue,N,Control
-Buster,O,Control
-Bruno,P,Control
+﻿AnimalName,subjectno,Grouptype
+Penny,11,Control
+Baby,12,Control
+Maddie,13,Control
+Blue,14,Control
+Buster,15,Control
+Bruno,16,Control
