@@ -57,11 +57,11 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
 
 
-## Machine Learning
+# Machine Learning
 
 
 
-## Tableau Dashboard
+# Tableau Dashboard
 Created a story for both groups in Tableau Public
 
 Link [Treatement Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
@@ -70,7 +70,7 @@ Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/v
 
 ![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
 
-
+# Presentation
 
 # Segment 2 Progress:
 
