@@ -102,7 +102,6 @@ Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/v
 
 ![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
 
-![dashboard.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard.png)
 
 ## Segment 2 Summary:
 The following was accomplished:
