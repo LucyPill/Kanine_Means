@@ -45,7 +45,7 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
 ## Analysis
 * Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
-* XXXXXXXXX
+* Schemas: [SQL](https://github.com/LucyPill/Kanine_Means/tree/main/SQL)
 *  XXXXXXXX
 *  XXXXXXXX
 
