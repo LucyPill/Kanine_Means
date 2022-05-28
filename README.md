@@ -147,3 +147,46 @@ The following was accomplished:
 * Team members collaborated equally
 * First ML model was attempted
 
+
+# Segment 3 Progress:
+
+## Github:
+Main Branch
+
+Main branch should include:
+* All code necessary to perform exploratory analysis: Generated all the csv files needed and cleaning with pandas in jupyter notebook
+* Some code necessary to complete machine learning portion of project 
+
+## Machine Learning:
+
+
+## Database: 
+We decided that we will separate main data table into two different tables
+- conttrolgroupdata
+- treatmentgroupdata
+
+Similarly animal names are also in two different tables
+- animalcontrolgroup
+- animaltreatmentgroup
+
+New ERD with new tables
+
+![image](https://user-images.githubusercontent.com/56806834/170814519-e03703c8-f254-475c-af19-2ef91e5b7254.png)
+
+
+Table Structure
+
+![image](https://user-images.githubusercontent.com/56806834/170814538-dcc23b30-2c33-4a3f-97c6-1618c783f33f.png)
+
+
+
+Created a SQL to join two tables to get appropriate animal name with the right values: 
+
+- select a.animalname, g.* from treatmentgroupdata g inner join animaltreatmentgroup a on g.subjectno = a.subjectno
+
+- select a.animalname, g.* from controlgroupdata g inner join animalcontrolgroup a on g.subjectno = a.subjectno
+
+
+
+## Dashboard:
+
