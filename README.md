@@ -42,17 +42,6 @@ The machine learning model considered for this project is hierarchical clusterin
 
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
 
-## Segment 1 Summary:
-The following was accomplished:
-* Topic was selected
-* The reason the topic was selected
-* Description of the source of data
-* Question we hope to answer with the data
-* A GitHub Repo was created and members were invited to collaborate
-* Members met in person last weekend and disccused more details during class this evening
-* Provisional machine learning model was suggested
-* Provisional database was suggested 
-
 # Segment 2 Progress:
 
 ## Github:
