@@ -72,6 +72,7 @@ Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/v
 
 # Presentation
 Presentation Slides: [Presentation](https://github.com/LucyPill/Kanine_Means/tree/main/Presentation%20%20)
+Presentation video: 
 
 # Segment 2 Progress:
 
