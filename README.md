@@ -72,43 +72,6 @@ The first steps to moving data to an unsupervised algorithm are as follows:
 
 2) Data processing (cleaning with pandas and sql) 
 
-
-&nbsp;&nbsp;&nbsp;*In this section the comments column and all null values were dropped from the csv. 
-
-
-![drops](https://github.com/LucyPill/Kanine_Means/blob/main/Images/drops.png)
-
-
-&nbsp;&nbsp;&nbsp;*Here the Subject No column was changed from string to integer values
-
-
-![pandas_cleaning](https://github.com/LucyPill/Kanine_Means/blob/main/Images/pandas_cleaning.png)
-
-
-&nbsp;&nbsp;&nbsp;*All columns were then renamed into snake case and all spaces were removed.
-
-
-![renamed_columns](https://github.com/LucyPill/Kanine_Means/blob/main/Images/renamed_columns.png)
-
-
-&nbsp;&nbsp;&nbsp;*Lastly columns were changed into integer values.
-
-
-![changed_dtypes](https://github.com/LucyPill/Kanine_Means/blob/main/Images/changing_datatypes.png)
-
-
-3) Data transformation (All data is being cleaned and written into a new csv file)
-
-
-![transformation](https://github.com/LucyPill/Kanine_Means/blob/main/Images/csv_transformation_code.png)
-
-&nbsp;&nbsp;&nbsp;After cleaning all of the csv files, all cleaned csvs were combined with an outer join using pandas and lambdas ([Link to Code](https://github.com/LucyPill/Kanine_Means/blob/main/Python/cleaned_csv_merge.ipynb)).  Index was dropped on this file to be used in the ml model ([File Here](https://github.com/LucyPill/Kanine_Means/blob/main/Resources/machine_learning_cleaned.csv)).
-
-&nbsp;&nbsp;&nbsp;The first model chosen for the machine learning section was the hierarchical clustering model and for the reasons given in Segment 1.  After running this model it was quite clear the clusters were not forming as hoped ([Link to Code](https://github.com/LucyPill/Kanine_Means/blob/main/Python/hierarchical_clustering_model.ipynb)).  A dendrogram was created.  Multiple attempts were made with selecting a different amount of clusters.  In addition, the hvplot was rearranged numerous times to get the desired output.  Nothing seemed to form a fine tuned picture of what the data is saying.  From here K-means could possibly work.  If K-means fails then a supervised model may be more suitable for this project.
-
-![transformation](https://github.com/LucyPill/Kanine_Means/blob/main/Images/hierarchical_clustering.png)
-
-
 ## Database: 
 Before data was imported into postgresSQL was cleaned with pandas and ERD showing relationships was generated.
 Very first draft of ERD
