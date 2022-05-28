@@ -133,8 +133,10 @@ Create table animalgroup (animalname varchar(30), subjectno numeric(10), groupty
 * Storyboard on a Google Slide(s)
 * Description of the tool that will be used to create final dashboard: For this we will use Tablaeu 
 
-[Treatement Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
-[Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
+* [Treatement Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
+
+* [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
+*
 ![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
 
 ![dashboard.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard.png)
