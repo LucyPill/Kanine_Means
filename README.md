@@ -44,9 +44,33 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 * PostgreSQL
 
 ## Analysis
-[ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
+* Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
+* XXXXXXXXX
+*  XXXXXXXX
+*  XXXXXXXX
+
+## PostgreSQL Database
+* ERD 
+* Schemas were created
+* Queries were generated to join tables
 
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
+
+
+## Machine Learning
+
+
+
+## Tableau Dashboard
+Created a story for both groups in Tableau Public
+
+Link [Treatement Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
+
+Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
+
+![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
+
+
 
 # Segment 2 Progress:
 
