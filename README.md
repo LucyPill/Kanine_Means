@@ -31,30 +31,49 @@ Typically smaller and tighter measurements mean healthier gums.
 ## Question we hope to answer with the data:
 Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
-## Machine Learning Model: 
-The machine learning model considered for this project is hierarchical clustering.  The two main factors for this selection are as follows:
+## Deliverables:
+* Presentation
+*  Database
+*  Machine Learning Model 
+*  Interactive Dashboard
 
-&nbsp;&nbsp;&nbsp;*The dataset is relatively small in size. Hierarchical clustering works well with small datasets.
+## Resources 
+* Jupyter Notebook
+* Python 3.7
+* Tableau 
+* PostgreSQL
 
-&nbsp;&nbsp;&nbsp;*Hierarchical clustering is an unsupervised ML model.  Since the outcome of the data is unknown, unsupervised ML is likely the best selection.
+## Analysis
+* Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
+* Schemas: [SQL](https://github.com/LucyPill/Kanine_Means/tree/main/SQL)
+*  XXXXXXXX
+*  XXXXXXXX
 
-## Database:
-We are going to have one table VaccineData which will hold all the readings for all tooth positions for all the dogs in all different groups. Please see the sample data below.
-![image](https://user-images.githubusercontent.com/56806834/167991483-49d85ab4-cedb-4835-a0a0-14b305a760b6.png)
+## PostgreSQL Database
+* ERD 
+* Schemas were created
+* Queries were generated to join tables
 
-We will be having couple reference tables for Animals and Groups. We will be creating these tables in the next segments.
+![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
 
 
-## Segment 1 Summary:
-The following was accomplished:
-* Topic was selected
-* The reason the topic was selected
-* Description of the source of data
-* Question we hope to answer with the data
-* A GitHub Repo was created and members were invited to collaborate
-* Members met in person last weekend and disccused more details during class this evening
-* Provisional machine learning model was suggested
-* Provisional database was suggested 
+# Machine Learning
+
+
+
+# Tableau Dashboard
+Created a story for both groups in Tableau Public
+
+Link [Treatement Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
+
+Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
+
+![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
+
+# Presentation
+Presentation Slides: [Presentation](https://github.com/LucyPill/Kanine_Means/tree/main/Presentation%20%20)
+
+Presentation video: 
 
 # Segment 2 Progress:
 
