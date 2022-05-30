@@ -64,9 +64,11 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 # Tableau Dashboard
 Created a story for both groups in Tableau Public
 * Link [Treatement Group: Dashboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupDashboard/Treatment-Dasboard?publish=yes)
+* Link [Control Group: Dasboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupDashboard/ControlGroupDashboard)
+
 * Link [Treatment Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
-* 
-* Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
+
+* Link [Control Group: Story]
 
 ![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
 
@@ -116,7 +118,7 @@ Create table animalgroup (animalname varchar(30), subjectno numeric(10), groupty
 * Description of the tool that will be used to create final dashboard: For this we will use Tablaeu 
 
 Link [Treatement Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
-
+Link 
 Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
 
 ![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
