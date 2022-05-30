@@ -62,14 +62,12 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
 
 # Tableau Dashboard
-Created a story for both groups in Tableau Public
+Tableau public was used to create visualizations for the presentation. In addition dashboars and stories were created. (See links below)
 * Link [Treatement Group: Dashboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupDashboard/Treatment-Dasboard?publish=yes)
 * Link [Control Group: Dasboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupDashboard/ControlGroupDashboard)
-
 * Link [Treatment Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
-
 * Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
-* 
+
 ![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
 
 # Presentation
