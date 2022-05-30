@@ -1,0 +1,15 @@
+Create table ControlGroupData (SubjectNo integer, Tooth_Id integer, Days integer, Rostral integer, 
+						Buccal integer, Distal integer, Palatal integer, GingivialRecession integer,
+						BleedingAssessment integer); 
+
+Create table TreatmentGroupData (SubjectNo integer, Tooth_Id integer, Days integer, Rostral integer, 
+						Buccal integer, Distal integer, Palatal integer, GingivialRecession integer,
+						BleedingAssessment integer);
+
+Create table animalcontrolgroup (subjectno numeric(10), animalname varchar(30), grouptype varchar(30));
+
+Create table animaltreatmentgroup (animalname varchar(30), subjectno integer, grouptype varchar(30));
+
+select a.animalname, g.* from treatmentgroupdata g inner join animaltreatmentgroup a on g.subjectno = a.subjectno
+
+select a.animalname, g.* from controlgroupdata g inner join animalcontrolgroup a on g.subjectno = a.subjectno
