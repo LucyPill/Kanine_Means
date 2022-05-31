@@ -42,11 +42,12 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 * Python 3.7
 * Tableau 
 * PostgreSQL
+* Visual Studio Code
+* Slack
 
 ## Analysis
 * Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
-* Schemas: [SQL](https://github.com/LucyPill/Kanine_Means/tree/main/SQL)
-*  XXXXXXXX
+* Schemas and queries: [Final_SQL.txt](https://github.com/LucyPill/Kanine_Means/blob/main/SQL/Final_SQL.txt)*  XXXXXXXX
 *  XXXXXXXX
 
 ## PostgreSQL Database
