@@ -52,6 +52,9 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 * Presentation Slides: [Final_Project.pptx](https://github.com/LucyPill/Kanine_Means/blob/main/Presentation/Final_Project.pptx)
 * Presentation video: 
 
+## Explore trends in the data if any, so we can make an educated decision of how we want to plot our final data and also have an idea for a machine learning model that can work witth out dataset
+
+
 ## PostgreSQL Database
 * ERD 
 * Schemas were created
