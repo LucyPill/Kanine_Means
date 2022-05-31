@@ -143,7 +143,11 @@ Main branch should include:
 * Some code necessary to complete machine learning portion of project 
 
 ## Machine Learning:
-
+* A connection was made to an SQL database and the construct of the tables was produced there.  When importing from SQL, pandas and lambdas were used to further process the data.  All data was converted to numberical values.  Both tables of vaccinated and unvaccinated were combined into one table.  An additional column was greated named "group" that separated the vaccinated from the control group (unvaccinated).  A number 1 was assigned to the vaccinated group and a 0 was assigned to the unvaccinated group.  This made it possible in the end to see the differences between the two groups.
+* Logistic Regression model was selected because we are determining two possible outcomes.  Was the patient vaccinated or not.  A benefit of using Logistic Regression model is the it proves to be very effiecient when the dataset has features that are linearly separable.  In this case vaccinated and unvaccinated.  One drawback of this model, it is more difficult to capture complex relationships.  For this reason, we averaged the gum pocket measurements in another column and drop all the individual measurements to see the bigger pictures.  What we were hoping to see is an over all reduction in measurements of the patients who were vaccinated.  That ultimate goal was achieved.
+* The target for this dataset is the "group" column and the features selected are the "days" and "mean" columns.
+* Data was split into testing and training using sklearn's train_test_split.
+* With a current accuracy score of 1.00, this model has the highest accuracy score amongst other models tested.
 
 ## Database: 
 We decided that we will separate main data table into two different tables
