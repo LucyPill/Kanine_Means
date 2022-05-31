@@ -32,10 +32,10 @@ Typically smaller and tighter measurements mean healthier gums.
 Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
 ## Deliverables:
-* Presentation
-*  Database
-*  Machine Learning Model 
-*  Interactive Dashboard
+* Presentation (Google Slides)
+*  Database (PostgreSQL)
+*  Machine Learning Model (Logistic Regression Model)
+*  Interactive Dashboard (Tableau)
 
 ## Resources 
 * Jupyter Notebook
