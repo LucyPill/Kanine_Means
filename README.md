@@ -31,13 +31,13 @@ Typically smaller and tighter measurements mean healthier gums.
 ## Question we hope to answer with the data:
 Does the vaccine have a positive impact in preventing, or slowing gum disease?
 
-## Deliverables:
+# Deliverables:
 * Presentation (Google Slides)
 *  Database (PostgreSQL)
 *  Machine Learning Model (Logistic Regression Model)
 *  Interactive Dashboard (Tableau)
 
-## Resources 
+# Resources 
 * Jupyter Notebook
 * Python 3.7
 * Tableau 
@@ -45,14 +45,14 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 * Visual Studio Code
 * Slack
 
-## Analysis
+# Analysis
 * Schemas and queries: [Final_SQL.txt](https://github.com/LucyPill/Kanine_Means/blob/main/SQL/Final_SQL.txt)
 * Machine learning: [Machine_learning.Model_Final.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Machine_Learning/Machine_learning.Model_Final.ipynb)
 * Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
 * Presentation Slides: [Final_Project.pptx](https://github.com/LucyPill/Kanine_Means/blob/main/Presentation/Final_Project.pptx)
 * Presentation video: 
 
-## Explore trends in the data if any:
+# Explore trends in the data if any:
 This will allow for an educated guess of how we would like to analyze the data and how we use the tools availabe to our advantage
 
 #### Scatter plot shows an inverse-linear trend between the two groups
@@ -76,7 +76,7 @@ PostgreSQL is used as the only database for this project.
 
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
 
-## Machine Learning
+# Machine Learning
 
 #### Used Logistic Regression Model
 
