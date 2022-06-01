@@ -123,4 +123,5 @@ Tableau public was used to create visualizations for the presentation. For dashb
 *  These are very encouraging results; however, it is not enough to say with confidence that the positive effect we are seeing is due to the vaccine. In order to make this conclusion with 100% certainty, we will need to measure the anitbody titers and compared both groups
 * Used diffrent tools/technolgies that allow us to do this analysis and have an clear idea of what is goin on
 * Created good visualizations using Tableau Public 
-* Our machine learning logistic regression model shows an accuracy of 100% and this was confirm by the ROC plot
+* Our machine learning logistic regression model shows an accuracy of 100%; this was confirm by a receiver operating characteristic curve
+* An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds           This curve plots two parameters: True Positive Rate and False Positive Rate
