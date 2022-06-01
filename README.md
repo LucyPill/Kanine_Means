@@ -30,7 +30,7 @@ Typically smaller and tighter measurements mean healthier gums.
 
 ************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
-# Question we hope to answer with the data:
+# Question we hope to answer with this data:
 Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
 
 # Deliverables:
@@ -111,3 +111,9 @@ Tableau public was used to create visualizations for the presentation. For dashb
 * Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
 
 ![Dashboard.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Dashboard.png)
+
+
+
+
+# Results/Conclusion/Summary
+With our analysis, we were able to answer the question that we posted at the beginning of this analysis. Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
