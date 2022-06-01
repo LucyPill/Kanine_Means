@@ -89,11 +89,15 @@ PostgreSQL is used as the only database for this project.
 *  Our dataset was very small, and the other models we tried didnt work as well as the logistic regression model
 
 ### What our model tells us?
-* Groups can be predicted accurately 
+* Groups can be predicted accurately 100% of the time
 
 #### Confusion Matrix:
 
 ![confusion_matrix.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/confusion_matrix.png)
+
+#### Classification Report:
+
+![classification_report](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/classification_report.png)
 
 
 # Tableau Dashboard
