@@ -46,9 +46,9 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 * Slack
 
 ## Analysis
-* Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
 * Schemas and queries: [Final_SQL.txt](https://github.com/LucyPill/Kanine_Means/blob/main/SQL/Final_SQL.txt)
-* Machine learning Code: [Machine_learning.Model_Final.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Machine_Learning/Machine_learning.Model_Final.ipynb)
+* Machine learning: [Machine_learning.Model_Final.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Machine_Learning/Machine_learning.Model_Final.ipynb)
+* Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
 * Presentation Slides: [Final_Project.pptx](https://github.com/LucyPill/Kanine_Means/blob/main/Presentation/Final_Project.pptx)
 * Presentation video: 
 
@@ -67,7 +67,28 @@ This will allow for an educated guess of how we would like to analyze the data a
 ##### Based on these initial observations, we decided to try logistic regression model for classification of the groups within the study
 
 ## PostgreSQL Database
-* ERD 
+PostgreSQL is used as the only database for this project.
+
+* ERD: [ERD.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/ERD.png)
 * Schemas and queries: [Final_SQL.txt](https://github.com/LucyPill/Kanine_Means/blob/main/SQL/Final_SQL.txt)
+* CSV files used to create schemas: [Resources](https://github.com/LucyPill/Kanine_Means/tree/main/Resources)
+
 
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
+
+## Machine Learning
+
+#### Used Logistic Regression Classfication Model
+
+* Used Supervised learning because we know thw two groups: Control Vs Treatment
+* Model was trained to predict..................
+* This model has limitations but for us worked fined because our data displays a linear rend 
+
+# Tableau Dashboard
+Tableau public was used to create visualizations for the presentation. In addition dashboars and stories were created. (See links below)
+* Link [Treatement Group: Dashboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupDashboard/Treatment-Dasboard?publish=yes)
+* Link [Control Group: Dasboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupDashboard/ControlGroupDashboard)
+* Link [Treatment Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
+* Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
+
+![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
