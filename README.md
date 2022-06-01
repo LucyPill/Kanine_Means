@@ -109,7 +109,7 @@ PostgreSQL is used as the only database for this project.
 ![Log_ROC.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Log_ROC.png)
 
 *  Logistic regression, also called a logit model, is used to model dichotomous outcome variables. In the logit model the log odds of the outcome is modeled as a linear combination of the predictor variables
-*  
+ 
 *  ![logit.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/logit.png)
 
 
