@@ -100,9 +100,14 @@ PostgreSQL is used as the only database for this project.
 
 ![confusion_matrix.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/confusion_matrix.png):|:![classification_report](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/classification_report.png)
 
-* An ROC curve (receiver operating characteristic curve) was used to show the performance of a our logistic regression classification model.          This curve plots two parameters: True Positive Rate and False Positive Rate
+* An ROC curve (receiver operating characteristic curve) was used to show the performance of a our logistic regression classification model.
+* This curve plots two parameters:
+    1. True Positive Rate (Sensitivity recall), and
+    2.  False Positive Rate (Probability of false alarm)
 
 ![Log_ROC.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Log_ROC.png)
+
+
 
 
 # Tableau Dashboard
