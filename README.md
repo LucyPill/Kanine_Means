@@ -81,9 +81,11 @@ PostgreSQL is used as the only database for this project.
 #### Used Logistic Regression Model
 
 * Used Supervised learning because we know the groups: Control and Treatment groups
-* Model was trained to predict if a dog was in the treatment or the control group
+* Model was trained to predict if a dog was in the treatment(1) or the control(0) group
+![Test_prediction.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Test_prediction%20.png)
+
 * This model has limitations but for us worked fined because our data displays a linear trend 
-*  Our dataset was very small and the other models we tried didnt work as well as the logistic regression model did predicting the groups correctly 100% of the times
+*  Our dataset was very small and the other models we tried didnt work as well as the logistic regression model
 
 # Tableau Dashboard
 Tableau public was used to create visualizations for the presentation. For dashboars and stories were created. (See links below)
