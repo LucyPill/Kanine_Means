@@ -98,6 +98,7 @@ PostgreSQL is used as the only database for this project.
 ![confusion_matrix.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/confusion_matrix.png):|:![classification_report](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/classification_report.png)
 
 
+
 # Tableau Dashboard
 Tableau public was used to create visualizations for the presentation. For dashboars and stories were created. (See links below)
 * Link [Treatement Group: Dashboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupDashboard/Treatment-Dasboard?publish=yes)
@@ -105,4 +106,4 @@ Tableau public was used to create visualizations for the presentation. For dashb
 * Link [Treatment Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
 * Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
 
-![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
+![Dashboard.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/Dashboard.png)
