@@ -66,5 +66,9 @@ This will allow for an educated guess of how we would like to analyze the data a
 
 ##### Based on these initial observations, we decided to try logistic regression model for classification of the groups within the study
 
+## PostgreSQL Database
+* ERD 
+* Schemas were created
+* Queries were generated to join tables
 
-
+![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
