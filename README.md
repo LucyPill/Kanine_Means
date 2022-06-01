@@ -66,7 +66,7 @@ This will allow for an educated guess of how we would like to analyze the data a
 
 ##### Based on these initial observations, we decided to try logistic regression model for classification of the groups within the study
 
-## PostgreSQL Database
+# PostgreSQL Database
 PostgreSQL is used as the only database for this project.
 
 * ERD: [ERD.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/ERD.png)
