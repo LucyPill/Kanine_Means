@@ -87,9 +87,13 @@ PostgreSQL is used as the only database for this project.
 
 * This model has limitations but for us worked fined because our data displays a linear trend 
 *  Our dataset was very small, and the other models we tried didnt work as well as the logistic regression model
-*  
-#### What our model tells us?
 
+### What our model tells us?
+* Groups can be predicted accurately 
+
+#### Confusion Matrix:
+
+![confusion_matrix.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/confusion_matrix.png)
 
 
 # Tableau Dashboard
