@@ -119,4 +119,5 @@ Tableau public was used to create visualizations for the presentation. For dashb
 
 # Results/Conclusion/Summary
 ### Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
-With our analysis, we were able to answer the question this questions. The physical measurements suggest that the vaccine is generating an immune response against the bacteria that causes periodontal disease and this effect is helping to reduce pocket depth in the treated or vaccinated group.
+* With our analysis, we were able to answer the question this questions. The physical measurements suggest that the vaccine is generating an immune response against the bacteria that causes periodontal disease and this effect is helping to reduce pocket depth in the treated or vaccinated group
+*  These are very encouraging results; however, it is not enough to say with confidence that the positive effect we are seeing is due to the vaccine. In order to make this conclusion with 100% certainty, we will need to measure the anitbody titers and compared both groups
