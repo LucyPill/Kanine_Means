@@ -106,4 +106,4 @@ Tableau public was used to create visualizations for the presentation. For dashb
 * Link [Treatment Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
 * Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
 
-![Dashboard.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/Dashboard.png)
+![Dashboard.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Dashboard.png)
