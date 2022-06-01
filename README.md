@@ -115,5 +115,7 @@ Tableau public was used to create visualizations for the presentation. For dashb
 
 
 
+
+
 # Results/Conclusion/Summary
-With our analysis, we were able to answer the question that we posted at the beginning of this analysis. Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
+* Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
