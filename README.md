@@ -64,7 +64,9 @@ This will allow for an educated guess of how we would like to analyze the data a
 ![bar.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/bar.png)
 ![lines](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/lines.png)
 
+
 ##### Based on these initial observations, we decided to try logistic regression model for classification of the groups within the study
+
 
 # PostgreSQL Database
 PostgreSQL is used as the only database for this project.
@@ -78,7 +80,7 @@ PostgreSQL is used as the only database for this project.
 
 # Machine Learning
 
-#### Used Logistic Regression Model
+### Used Logistic Regression Model
 
 * Used Supervised learning because we know the groups: Control and Treatment groups
 * Model was trained to predict if a dog was in the treatment(1) or the control(0) group
@@ -88,14 +90,12 @@ PostgreSQL is used as the only database for this project.
 * This model has limitations but for us worked fined because our data displays a linear trend 
 *  Our dataset was very small, and the other models we tried didnt work as well as the logistic regression model
 
-### What our model tells us?
+## What our model tells us?
 * Groups can be predicted accurately 100% of the time
-
+* The precision shows that each group was put in the correct category 100% of the time
+* The recall shows that the model predicted the right categorization 100% of the time
 
 ![confusion_matrix.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/confusion_matrix.png):|:![classification_report](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/classification_report.png)
-
-
-
 
 
 # Tableau Dashboard
