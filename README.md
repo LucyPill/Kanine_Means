@@ -68,7 +68,6 @@ This will allow for an educated guess of how we would like to analyze the data a
 
 ## PostgreSQL Database
 * ERD 
-* Schemas were created
-* Queries were generated to join tables
+* Schemas and queries: [Final_SQL.txt](https://github.com/LucyPill/Kanine_Means/blob/main/SQL/Final_SQL.txt)
 
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
