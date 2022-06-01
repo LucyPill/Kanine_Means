@@ -75,3 +75,11 @@ PostgreSQL is used as the only database for this project.
 
 
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
+
+## Machine Learning
+
+#### Used Logistic Regression Classfication Model
+
+* Used Supervised learning because we know thw two groups: Control Vs Treatment
+* Model was trained to predict..................
+* This model has limitations but for us worked fined because our data displays a linear rend 
