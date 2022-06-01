@@ -28,10 +28,10 @@ Typically smaller and tighter measurements mean healthier gums.
 5-7mm with bleeding means tissue damage and probably bone loss.
 7mm and above with bleeding is generally the advanced stage of periodontal disease. 
 
-********************************************************************************************************************************************************
+************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
 
 ## Question we hope to answer with the data:
-Does the vaccine have a positive impact in preventing, or slowing gum disease?
+Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
 
 # Deliverables:
 * Presentation (Google Slides)
