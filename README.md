@@ -55,7 +55,10 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 ## Explore trends in the data if any:
 This will allow for an educated guess of how we would like to analyze the data and how we use the tools availabe to our advantage
 
-![newplot.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/newplot.png)![bar.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/bar.png)
+![12.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/12.png):|:![2.png]
+(https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/2.png)
+
+![bar.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/bar.png)
 
 
 
