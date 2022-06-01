@@ -91,11 +91,9 @@ PostgreSQL is used as the only database for this project.
 ### What our model tells us?
 * Groups can be predicted accurately 100% of the time
 
-#### Confusion Matrix:
 
 ![confusion_matrix.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/confusion_matrix.png):|:![classification_report](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/classification_report.png)
 
-#### Classification Report:
 
 
 
