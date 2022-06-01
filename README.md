@@ -56,8 +56,7 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 This will allow for an educated guess of how we would like to analyze the data and how we use the tools availabe to our advantage
 
 ![12.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/12.png):|:![2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/2.png)
-     
-![treatment2](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/treatment2.png):|:![control1.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/control1.png)
+   
 
 
 
@@ -136,60 +135,4 @@ Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/v
 ![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
 
 
-## Segment 2 Summary:
-The following was accomplished:
-* Cleaned data with pandas
-* Started importing the csv files into postqresSQL 
-* A blueprint of the dasboard was generated using tableau
-* An outline of the presentation was generated
-* Team members met during class and then communicated outside class via Zoom and slack to coordinate details
-* Team members collaborated equally
-* First ML model was attempted
-
-
-# Segment 3 Progress:
-
-## Github:
-Main Branch
-
-Main branch should include:
-* All code necessary to perform exploratory analysis: Generated all the csv files needed and cleaning with pandas in jupyter notebook
-* Some code necessary to complete machine learning portion of project 
-
-## Machine Learning:
-* A connection was made to an SQL database and the construct of the tables was produced there.  When importing from SQL, pandas and lambdas were used to further process the data.  All data was converted to numberical values.  Both tables of vaccinated and unvaccinated were combined into one table.  An additional column was greated named "group" that separated the vaccinated from the control group (unvaccinated).  A number 1 was assigned to the vaccinated group and a 0 was assigned to the unvaccinated group.  This made it possible in the end to see the differences between the two groups.
-* Logistic Regression model was selected because we are determining two possible outcomes.  Was the patient vaccinated or not.  A benefit of using Logistic Regression model is the it proves to be very effiecient when the dataset has features that are linearly separable.  In this case vaccinated and unvaccinated.  One drawback of this model, it is more difficult to capture complex relationships.  For this reason, we averaged the gum pocket measurements in another column and drop all the individual measurements to see the bigger pictures.  What we were hoping to see is an over all reduction in measurements of the patients who were vaccinated.  That ultimate goal was achieved.
-* The target for this dataset is the "group" column and the features selected are the "days" and "mean" columns.
-* Data was split into testing and training using sklearn's train_test_split.
-* With a current accuracy score of 1.00, this model has the highest accuracy score amongst other models tested.
-
-## Database: 
-We decided that we will separate main data table into two different tables
-- conttrolgroupdata
-- treatmentgroupdata
-
-Similarly animal names are also in two different tables
-- animalcontrolgroup
-- animaltreatmentgroup
-
-New ERD with new tables
-
-![image](https://user-images.githubusercontent.com/56806834/170814519-e03703c8-f254-475c-af19-2ef91e5b7254.png)
-
-
-Table Structure
-
-![image](https://user-images.githubusercontent.com/56806834/170814538-dcc23b30-2c33-4a3f-97c6-1618c783f33f.png)
-
-
-
-Created a SQL to join two tables to get appropriate animal name with the right values: 
-
-- select a.animalname, g.* from treatmentgroupdata g inner join animaltreatmentgroup a on g.subjectno = a.subjectno
-
-- select a.animalname, g.* from controlgroupdata g inner join animalcontrolgroup a on g.subjectno = a.subjectno
-
-
-
-## Dashboard:
 
