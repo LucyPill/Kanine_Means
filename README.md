@@ -83,3 +83,12 @@ PostgreSQL is used as the only database for this project.
 * Used Supervised learning because we know thw two groups: Control Vs Treatment
 * Model was trained to predict..................
 * This model has limitations but for us worked fined because our data displays a linear rend 
+
+# Tableau Dashboard
+Tableau public was used to create visualizations for the presentation. In addition dashboars and stories were created. (See links below)
+* Link [Treatement Group: Dashboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupDashboard/Treatment-Dasboard?publish=yes)
+* Link [Control Group: Dasboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupDashboard/ControlGroupDashboard)
+* Link [Treatment Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
+* Link [Control Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupStory/ControlGroupStory)
+
+![dashboard2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images/dashboard2.png)
