@@ -82,6 +82,7 @@ PostgreSQL is used as the only database for this project.
 
 * Used Supervised learning because we know the groups: Control and Treatment groups
 * Model was trained to predict if a dog was in the treatment(1) or the control(0) group
+
 ![Test_prediction.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Test_prediction%20.png)
 
 * This model has limitations but for us worked fined because our data displays a linear trend 
