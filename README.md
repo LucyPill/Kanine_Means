@@ -57,9 +57,7 @@ This will allow for an educated guess of how we would like to analyze the data a
 
 ![12.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/12.png):|:![2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/2.png)
      
-     
-     
-![12.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/12.png | width=50x50)png):|:![2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/2.png | width=50x50):|:![treatment2](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/treatment2.png | width=50x50):|:![control1.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/control1.png | width=50x50)
+![treatment2](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/treatment2.png):|:![control1.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/control1.png)
 
 
 
