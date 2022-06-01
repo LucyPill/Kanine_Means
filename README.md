@@ -78,11 +78,12 @@ PostgreSQL is used as the only database for this project.
 
 ## Machine Learning
 
-#### Used Logistic Regression Classfication Model
+#### Used Logistic Regression Model
 
-* Used Supervised learning because we know thw two groups: Control Vs Treatment
-* Model was trained to predict..................
-* This model has limitations but for us worked fined because our data displays a linear rend 
+* Used Supervised learning because we know the groups: Control and Treatment groups
+* Model was trained to predict if a dog was in the treatment or the control group
+* This model has limitations but for us worked fined because our data displays a linear trend 
+*  Our dataset was very small and the other models we tried didnt work as well as the logistic regression model did predicting the groups correctly 100% of the times
 
 # Tableau Dashboard
 Tableau public was used to create visualizations for the presentation. In addition dashboars and stories were created. (See links below)
