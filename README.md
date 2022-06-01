@@ -106,7 +106,7 @@ PostgreSQL is used as the only database for this project.
     1. True Positive Rate (Sensitivity recall), and
     2.  False Positive Rate (Probability of false alarm)
 
-![Log_ROC.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Log_ROC.png):|:![logit_model.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/logit_model.png)
+![Log_ROC.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Log_ROC.png):|:![logit.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/logit.png)
 
 
 
