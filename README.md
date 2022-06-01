@@ -56,7 +56,7 @@ Does the vaccine have a positive impact in preventing, or slowing gum disease?
 This will allow for an educated guess of how we would like to analyze the data and how we use the tools availabe to our advantage
 
 
-* Scatter plot shows an inverse trend between the two groups![12.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/12.png):|:![2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/2.png) 
+![12.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/12.png)* Scatter plot shows an inverse trend between the two groups:|:![2.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/2.png) 
 
 :|:![bar.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/bar.png):|:![lines](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/lines.png)
 
