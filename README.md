@@ -100,7 +100,9 @@ PostgreSQL is used as the only database for this project.
 
 ![confusion_matrix.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/confusion_matrix.png):|:![classification_report](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/classification_report.png)
 
+* An ROC curve (receiver operating characteristic curve) was used to show the performance of a our logistic regression classification model.          This curve plots two parameters: True Positive Rate and False Positive Rate
 
+![Log_ROC.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Log_ROC.png)
 
 
 # Tableau Dashboard
@@ -124,4 +126,4 @@ Tableau public was used to create visualizations for the presentation. For dashb
 * Used diffrent tools/technolgies that allow us to do this analysis and have an clear idea of what is goin on
 * Created good visualizations using Tableau Public 
 * Our machine learning logistic regression model shows an accuracy of 100%; this was confirm by a receiver operating characteristic curve
-* An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds           This curve plots two parameters: True Positive Rate and False Positive Rate
+
