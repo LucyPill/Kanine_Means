@@ -86,7 +86,7 @@ PostgreSQL is used as the only database for this project.
 *  Our dataset was very small and the other models we tried didnt work as well as the logistic regression model did predicting the groups correctly 100% of the times
 
 # Tableau Dashboard
-Tableau public was used to create visualizations for the presentation. In addition dashboars and stories were created. (See links below)
+Tableau public was used to create visualizations for the presentation. For dashboars and stories were created. (See links below)
 * Link [Treatement Group: Dashboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupDashboard/Treatment-Dasboard?publish=yes)
 * Link [Control Group: Dasboard](https://public.tableau.com/app/profile/lucy.e.pill/viz/ControlGroupDashboard/ControlGroupDashboard)
 * Link [Treatment Group: Story](https://public.tableau.com/app/profile/lucy.e.pill/viz/TreatementGroupStory/TreatmentGroupStory?publish=yes)
