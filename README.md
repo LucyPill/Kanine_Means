@@ -68,7 +68,9 @@ This will allow for an educated guess of how we would like to analyze the data a
 
 ## PostgreSQL Database
 * CSV files used to create schemas: [Resources](https://github.com/LucyPill/Kanine_Means/tree/main/Resources)
-*ERD: [ERD.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/ERD.png)
+
+* ERD: [ERD.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/ERD.png)
+
 * Schemas and queries: [Final_SQL.txt](https://github.com/LucyPill/Kanine_Means/blob/main/SQL/Final_SQL.txt)
 
 ![Final_Readme_SQL.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Final_Readme_SQL.png)
