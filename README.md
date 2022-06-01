@@ -64,6 +64,7 @@ This will allow for an educated guess of how we would like to analyze the data a
 ![bar.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/bar.png)
 ![lines](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/lines.png)
 
+###### Based on these initial trends we decided to try logistic regression model for classification of the groups within the study
 
 
 
