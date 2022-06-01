@@ -86,7 +86,11 @@ PostgreSQL is used as the only database for this project.
 ![Test_prediction.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Test_prediction%20.png)
 
 * This model has limitations but for us worked fined because our data displays a linear trend 
-*  Our dataset was very small and the other models we tried didnt work as well as the logistic regression model
+*  Our dataset was very small, and the other models we tried didnt work as well as the logistic regression model
+*  
+#### What our model tells us?
+
+
 
 # Tableau Dashboard
 Tableau public was used to create visualizations for the presentation. For dashboars and stories were created. (See links below)
