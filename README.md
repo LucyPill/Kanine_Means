@@ -103,10 +103,14 @@ PostgreSQL is used as the only database for this project.
 
 * An ROC curve (receiver operating characteristic curve) was used to show the performance of a our logistic regression classification model.
 * This curve plots two parameters:
-    1. True Positive Rate (Sensitivity recall), and                                    # Logit Model Table:
-    2.  False Positive Rate (Probability of false alarm)----------------------
+    1. True Positive Rate (Sensitivity recall), and                                
+    2.  False Positive Rate (Probability of false alarm)
 
-![Log_ROC.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Log_ROC.png):|:![logit.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/logit.png)
+![Log_ROC.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/Log_ROC.png)
+
+*  Logistic regression, also called a logit model, is used to model dichotomous outcome variables. In the logit model the log odds of the outcome is modeled as a linear combination of the predictor variables
+*  
+*  ![logit.png](https://github.com/LucyPill/Kanine_Means/blob/main/Images_Final_Repo/logit.png)
 
 
 
