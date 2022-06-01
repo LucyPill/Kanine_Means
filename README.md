@@ -52,7 +52,7 @@ Does the vaccine have a positive impact in reducing pocket depth cause by gum di
 * Machine learning: [Machine_learning.Model_Final.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Machine_Learning/Machine_learning.Model_Final.ipynb)
 * Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
 * Presentation Slides: [Final_Project.pptx](https://github.com/LucyPill/Kanine_Means/blob/main/Presentation/Final_Project.pptx)
-* Presentation video: 
+* Goggle Slides: [Final_Project.PPTX](https://docs.google.com/presentation/d/1bDTZmX8RsT7CglKkFXHu3xEZEyaCSmJb/edit#slide=id.p4)* Presentation video: 
 
 # Explore trends in the data if any:
 This will allow for an educated guess of how we would like to analyze the data and how we use the tools availabe to our advantage
