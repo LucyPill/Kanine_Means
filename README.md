@@ -34,7 +34,7 @@ Typically smaller and tighter measurements mean healthier gums.
 Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
 
 # Deliverables:
-* Presentation (Google Slides)
+*  Presentation (Google Slides)
 *  Database (PostgreSQL)
 *  Machine Learning Model (Logistic Regression Model)
 *  Interactive Dashboard (Tableau)
@@ -52,7 +52,7 @@ Does the vaccine have a positive impact in reducing pocket depth cause by gum di
 * Machine learning: [Machine_learning.Model_Final.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Machine_Learning/Machine_learning.Model_Final.ipynb)
 * Generating Tableau CSV: [ETL_Tableau.ipynb](https://github.com/LucyPill/Kanine_Means/blob/main/Tableau/ETL_Tableau.ipynb)
 * Presentation Slides: [Final_Project.pptx](https://github.com/LucyPill/Kanine_Means/blob/main/Presentation/Final_Project.pptx)
-* Goggle Slides: [Final_Project.PPTX](https://docs.google.com/presentation/d/1bDTZmX8RsT7CglKkFXHu3xEZEyaCSmJb/edit#slide=id.p4)
+* Google Slides: [Final_Project.PPTX](https://docs.google.com/presentation/d/1bDTZmX8RsT7CglKkFXHu3xEZEyaCSmJb/edit#slide=id.p4)
 * Presentation video: 
 
 # Explore trends in the data if any:
@@ -131,8 +131,8 @@ Tableau public was used to create visualizations for the presentation. For dashb
 # Results/Conclusion/Summary
 ### Does the vaccine have a positive impact in reducing pocket depth cause by gum disease?
 * With our analysis, we were able to answer the question this questions. The physical measurements suggest that the vaccine is generating an immune response against the bacteria that causes periodontal disease and this effect is helping to reduce pocket depth in the treated or vaccinated group
-*  These are very encouraging results; however, it is not enough to say with confidence that the positive effect we are seeing is due to the vaccine. In order to make this conclusion with 100% certainty, we will need to measure the anitbody titers and compared both groups
-* Used diffrent tools/technolgies that allow us to do this analysis and have an clear idea of what is goin on
+*  These are very encouraging results; however, it is not enough to say with confidence that the positive effect we are seeing is due to the vaccine. In order to make this conclusion with 100% certainty, we will need to measure the antibody titers and compared both groups
+* Used different tools/technolgies that allow us to do this analysis and have a clear idea of what is goin on
 * Created good visualizations using Tableau Public 
-* Our machine learning logistic regression model shows an accuracy of 100%; this was confirm by a receiver operating characteristic curve
+* Our machine learning logistic regression model shows an accuracy of 100%; this was confirmed by a receiver operating characteristic curve
 
